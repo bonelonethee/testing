@@ -1,2 +1,2 @@
 # testing
-testing as described
+testing as describe
